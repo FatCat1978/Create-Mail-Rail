@@ -1,0 +1,5 @@
+{
+  "mailrail.schedule.instruction.package_retrieval_exclusive": "Retrieve Unclaimed Package",
+  "mailrail.schedule.instruction.package_retrieval_exclusive.summary_1": "Drives to a postbox with a matching",
+  "mailrail.schedule.instruction.package_retrieval_exclusive.summary_2": "undelivered package and no other trains en route"
+}
